@@ -1,0 +1,10 @@
+C:\Users\jario\source\repos\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
+C:\Users\jario\source\repos\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+C:\Users\jario\source\repos\TestApp\obj\Debug\TestApp.TestApp.resources
+C:\Users\jario\source\repos\TestApp\obj\Debug\TestApp.csproj.GenerateResource.cache
+C:\Users\jario\source\repos\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\jario\source\repos\TestApp\bin\Debug\Luffarschack.exe.config
+C:\Users\jario\source\repos\TestApp\bin\Debug\Luffarschack.exe
+C:\Users\jario\source\repos\TestApp\bin\Debug\Luffarschack.pdb
+C:\Users\jario\source\repos\TestApp\obj\Debug\Luffarschack.exe
+C:\Users\jario\source\repos\TestApp\obj\Debug\Luffarschack.pdb
